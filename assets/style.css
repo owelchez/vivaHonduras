@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************** @media *****************/
+
+@media (min-width: 576px)
+docs.min.css:7
+.bd-footer {
+    text-align: left;
+}
